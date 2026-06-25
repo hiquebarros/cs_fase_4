@@ -307,7 +307,5 @@ def exibir_menu():
     print("9. Simular falha operacional")
     print("10. Comparar rotas de energia")
     print("11. Exibir modelagem matemática")
-    print("12. Exibir sustentabilidade e governança")
-    print("13. Identificar módulos críticos")
-    print("14. Demonstração automática")
+    print("12. Identificar módulos críticos")
     print("0. Sair")

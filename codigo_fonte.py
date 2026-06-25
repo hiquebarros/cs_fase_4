@@ -3,13 +3,11 @@
 from arquivos_auxiliares.interface import (
     comparar_rotas_energia,
     consultar_modulo,
-    demonstracao_automatica,
     executar_bfs,
     executar_dfs,
     executar_dijkstra,
     exibir_menu,
     exibir_modelagem_matematica,
-    exibir_sustentabilidade_governanca,
     identificar_modulos_criticos,
     listar_modulos,
     pausar,
@@ -48,11 +46,7 @@ def main():
         elif opcao == "11":
             exibir_modelagem_matematica()
         elif opcao == "12":
-            exibir_sustentabilidade_governanca()
-        elif opcao == "13":
             identificar_modulos_criticos()
-        elif opcao == "14":
-            demonstracao_automatica()
         elif opcao == "0":
             print("Encerrando o SIGIC. Missão Aurora Siger monitorada.")
             break
