@@ -1,0 +1,95 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1859 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+14 TL
+(SIGIC - Rede da Col?nia Aurora Siger) Tj
+T*
+T*
+(Mapa computacional da rede da col?nia Aurora Siger) Tj
+T*
+() Tj
+T*
+(Legenda: cada linha representa uma conex?o bidirecional entre m?dulos.) Tj
+T*
+(O peso combina dist?ncia, custo energ?tico e lat?ncia.) Tj
+T*
+() Tj
+T*
+(Armazenamento de Energia -- Centro de Controle [dist=2.0 km, custo=12, lat=4]) Tj
+T*
+(Armazenamento de Energia -- Habitacao [dist=2.5 km, custo=16, lat=5]) Tj
+T*
+(Armazenamento de Energia -- Agricultura [dist=3.0 km, custo=18, lat=7]) Tj
+T*
+(Armazenamento de Energia -- Producao de Oxigenio [dist=2.2 km, custo=15, lat=5]) Tj
+T*
+(Centro de Controle -- Comunicacao [dist=1.0 km, custo=8, lat=2]) Tj
+T*
+(Centro de Controle -- Laboratorio Cientifico [dist=2.8 km, custo=14, lat=6]) Tj
+T*
+(Centro de Controle -- Centro Medico [dist=2.4 km, custo=13, lat=5]) Tj
+T*
+(Habitacao -- Centro Medico [dist=1.2 km, custo=7, lat=3]) Tj
+T*
+(Habitacao -- Agricultura [dist=2.7 km, custo=15, lat=6]) Tj
+T*
+(Agricultura -- Producao de Oxigenio [dist=1.8 km, custo=10, lat=4]) Tj
+T*
+(Producao de Oxigenio -- Laboratorio Atmosferico [dist=1.5 km, custo=9, lat=3]) Tj
+T*
+(Laboratorio Atmosferico -- Processamento de Recursos [dist=2.6 km, custo=17, lat=7]) Tj
+T*
+(Processamento de Recursos -- Agricultura [dist=2.1 km, custo=14, lat=5]) Tj
+T*
+(Processamento de Recursos -- Laboratorio Cientifico [dist=3.1 km, custo=19, lat=8]) Tj
+T*
+(Laboratorio Cientifico -- Comunicacao [dist=1.9 km, custo=11, lat=4]) Tj
+T*
+(Comunicacao -- Centro Medico [dist=2.3 km, custo=12, lat=4]) Tj
+T*
+() Tj
+T*
+(Fluxo cr?tico sugerido para demonstra??o:) Tj
+T*
+(Armazenamento de Energia -> Centro de Controle -> Centro Medico) Tj
+T*
+() Tj
+T*
+(M?dulos de prioridade m?xima:) Tj
+T*
+(Habitacao, Centro de Controle, Armazenamento de Energia, Comunicacao, Centro Medico e) Tj
+T*
+(Producao de Oxigenio.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002152 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2220
+%%EOF

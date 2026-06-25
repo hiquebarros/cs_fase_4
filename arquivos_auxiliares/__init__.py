@@ -1,0 +1,1 @@
+"""Módulos auxiliares do SIGIC."""
