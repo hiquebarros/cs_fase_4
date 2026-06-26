@@ -1,95 +1,80 @@
 %PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
-<< /Type /Catalog /Pages 2 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
 4 0 obj
-<< /Length 1859 >>
-stream
-BT
-/F1 10 Tf
-50 790 Td
-14 TL
-(SIGIC - Rede da Col?nia Aurora Siger) Tj
-T*
-T*
-(Mapa computacional da rede da col?nia Aurora Siger) Tj
-T*
-() Tj
-T*
-(Legenda: cada linha representa uma conex?o bidirecional entre m?dulos.) Tj
-T*
-(O peso combina dist?ncia, custo energ?tico e lat?ncia.) Tj
-T*
-() Tj
-T*
-(Armazenamento de Energia -- Centro de Controle [dist=2.0 km, custo=12, lat=4]) Tj
-T*
-(Armazenamento de Energia -- Habitacao [dist=2.5 km, custo=16, lat=5]) Tj
-T*
-(Armazenamento de Energia -- Agricultura [dist=3.0 km, custo=18, lat=7]) Tj
-T*
-(Armazenamento de Energia -- Producao de Oxigenio [dist=2.2 km, custo=15, lat=5]) Tj
-T*
-(Centro de Controle -- Comunicacao [dist=1.0 km, custo=8, lat=2]) Tj
-T*
-(Centro de Controle -- Laboratorio Cientifico [dist=2.8 km, custo=14, lat=6]) Tj
-T*
-(Centro de Controle -- Centro Medico [dist=2.4 km, custo=13, lat=5]) Tj
-T*
-(Habitacao -- Centro Medico [dist=1.2 km, custo=7, lat=3]) Tj
-T*
-(Habitacao -- Agricultura [dist=2.7 km, custo=15, lat=6]) Tj
-T*
-(Agricultura -- Producao de Oxigenio [dist=1.8 km, custo=10, lat=4]) Tj
-T*
-(Producao de Oxigenio -- Laboratorio Atmosferico [dist=1.5 km, custo=9, lat=3]) Tj
-T*
-(Laboratorio Atmosferico -- Processamento de Recursos [dist=2.6 km, custo=17, lat=7]) Tj
-T*
-(Processamento de Recursos -- Agricultura [dist=2.1 km, custo=14, lat=5]) Tj
-T*
-(Processamento de Recursos -- Laboratorio Cientifico [dist=3.1 km, custo=19, lat=8]) Tj
-T*
-(Laboratorio Cientifico -- Comunicacao [dist=1.9 km, custo=11, lat=4]) Tj
-T*
-(Comunicacao -- Centro Medico [dist=2.3 km, custo=12, lat=4]) Tj
-T*
-() Tj
-T*
-(Fluxo cr?tico sugerido para demonstra??o:) Tj
-T*
-(Armazenamento de Energia -> Centro de Controle -> Centro Medico) Tj
-T*
-() Tj
-T*
-(M?dulos de prioridade m?xima:) Tj
-T*
-(Habitacao, Centro de Controle, Armazenamento de Energia, Comunicacao, Centro Medico e) Tj
-T*
-(Producao de Oxigenio.) Tj
-T*
-ET
-endstream
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
 5 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+<<
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20260626005717+00'00') /Creator (anonymous) /Keywords () /ModDate (D:20260626005717+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 1 /Kids [ 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3494
+>>
+stream
+Gau0F=cXNB&UroHke,"Ah!Y%FiW-:B-jZn6O;<<!(Q(:P(m@U&Q5eTSp%bVkBl]N?'pk'hcEOaW]"7=p)9E$\bOiL%1A:Y]qt=rk8]@hr0PS%*=$Nu4Xqk8E'89oEeI*;t)a>rm'=!O_.rQF97e.*7r\Uhi?SAo'1-3OSCCiP,9'CoQfT"`G8f&HiN&t8QY#/VE,"t<Q-=%6>E`Ibq>aG=*_1JnZp!oAAG^2OA`[,u@r]#jDZ)do/X0:!\XJUL6pf\Jb-:D%ui?`l-dh6SSRt9PiAp8=2g"ip&-%!&Slu(EJ`ibTtN4g6\*J_8cG/%96GAPp;fAlG>Na9EpH._T*ol>-P<A0h``XBi@<KS1FHi"^jZeqE>%CP5kMrq[>2#j`5RYh=?F.3U=EX?L&rW*KYHLA-NfSnb95eUAK4Z;E8Jk8'`hQY6Lgo@)*EtA\IniY,rV,ZMB^m8#7Y!b*<@>]tM[f(sN#:Tc8g*]O7g:*&5@W6`pB'nQF<_fkEoEg7J'O#a!UU/lm1=%MY4VTqfSm3YfOFIM3/IAPBR8+-lUuX7FO.3ooba=)J_=3:J)p<rASnY17M[2-P>$k%Rg3Ws3PZY_@08$ofVR6b9B^ASX`IjJbBNcD`r=k$Y3A8m`22;K$F$Xh"7(@b7"-nWi,'-4p)glgBH(LHHOBGeEYd]?IAN<<;-2cG"m_&ad"Ae$@[2^eEZW)s#'%JJX<Nm8N=[KaSBu@"SD]c#iQno^lQ6B!pr&i"rLhWmu1G3WL4BW_Pne60DJB0*Y`q-S($lm0P_jmF1s*QEE`B0JBSl\_iC7^ZE.5)9_2AA<0cPLjZhDQ6).`[Kk85/Od-.%`k]m!-T!Aamd,X/8tbiFDt#1X([G/7?k$s8(PBakS2Y"#$Fa-gT2I2QDC8taWe)D-`e4L<9&/2bab5*;5)V.Yc?dSa"\OH5'f[PlZPH%n-$`;;=_:Bfqg)apU?Z'6``*7)\C1[2VI?M8tDKmMh`Cl*BiI\@8u4umY&SXiVH>*U7.GkgC]jL5N];#Z+2ZZQMj.&A1'-7ts!_<6eE;sDZ1:KbCu<XYl`pOQMoL5#7C2#0]&e0&lscrHGCY`!^o2,;je*bC;ZH49qe.b02P-(d0Ap:"4Q:\.k`#A(/tG/=L59kg28'&"IR:b-81J<Um*_pntgn&tIk1a$)F/kVe";&eCRPmQLs]L$+kN6.XL*@+NN_pS=M#(`'[]Fh(_QA)n$)W\o:!pX6jgBn:B#6]6\A%gjP6JAE,WXt7lOW&&i87=@0fs;.Id**D%WX^?k.Q=c=0X$Ku%(;]i%VRCP!ThNp'XLE<,FZkr+VSUM"F`=cF>+S07=n>.gI4\6&L%h<1r!#2C8$#?_dGMND#07@"IVBc_)0S>L_;/@0[aW/%p*P.eY:18?qp(/BYM+Ag/0$HTn[<$6un85Y[3@Ejo:(ijVA'V4`!dq8+]8b6mV=u-+k,J&%BIOEP:`+WQV8oO%Nm<m)h/_P9G/P2eXU&1:F&XD@_=sUZADWYVld0J[=:0OS['>BV:>+)0"jV.YNBV/R,#/YehYp_`5S$@l-L:@\@Kj3fgLCZ,T@)(dUIQ[U+U%$]7ao;N\Pr3SmiGUd,CqFFZ_+?Y!&aFHZ;f84H9<MP?`Se(W-\r&Ci\pRD-[G[M-l9=WUuLr]ETRH,#U)M/BC`Z;Jt*DFB(<IeRe<fe.5S;CJ^daW89#eV521-"0"6#fDR)Petj\d"?hIU5jX<)1MW8*a.\kc.GgWQEs5c$";ERUVGCMk4AqC5T]``%aNj0m@J!0&Q-;-(X1h#Vf&OFbrdif2p%"XV$f`&*qcbWh-%fd[@8?l<oEc):2#RfH>BRk(Vc_14F#Z)MGbp]H*"o@A2H[Tk29D60`chCG:P?%Q)`r3?(P&Wb_Va"E[YD$*-YS36h0km%ar%NMR[=cj1d]WFXc\g\'i`r<O\0Q?#c<DRUY-TT'MSR^>U<#m`RJ.ob_YiX3fpSlICb=G"[0!e'(X+D!Qp2%Uet4.'Me":GV#FgkV0J?B4/YaXL0e+)jth31CQKi^)=TLgX/0D?_>)A6eHOnh6b\Ln#'L7?B*(7b^-8>CPo1$E"9$eD&=6`T>+"l,mu6KbqDL'jX(KoS<R%Rpb"5X-9e#-$p>Y/0>Kh\4J]8^Tn^S-@)^%0F*j<J+#/=&/Ac4kGK.dHVI'6r.S0ZH4Np)L".7oH`KsDb8!c&Uk$A5uM@$T71-s*,Z;X.o-\N+;73jeC\A51?TlLBXOa.^(I67o/i=oYBs%MH5&4;SVb0pd+V16!u8%Di4F)d%>f6:O6RQ>aODM00U/el:6IJ0e8%T#]"2)D%AG=L6YSkG0!hYp;jMIUY.9sIMCf:Sb#e\1\.PG<(i6`$md;-30'RJq$>SWuP:IZ"bI>CSI_=Fkp%F?TA)pD4M$i=ek:1"<?gMGuP::OBQ9th]->JLd<*C8(>_Ze6#)h9a%@s.PB;iS0)9ZELaZ(#51i/uVZ0%R:f-@j21Ggq(2K@0OolRZLQ)\9g)5l0eSedkLT8bu*+;=-@'IL#G30IkPFLh05c9\45]&UpCL4US>_nH2@2_qg-eIR8oTmFja!Dj=j_h^GcH3K6L[c>gZFZ#7<QpO9)F?EnJ_&3tFLi'C(!*,5]+Z65<T@r(m+(3`XTp_2.bOVV(PAMV:eQP7Q"3jK8HF_r$mQM'>;<`GGQutO<WB@W\bUL%u27,ka)UojfrA9@T0N;@O/fHDjBh)cU)9ZFG.Q@SulBU-J-9<\Bj5c9Q"'pOfcX'I<D4Jgd4k$N7V4+XNSEB-#adeD[(X;d4fj`QpBBhD\&,K)9+p!G_j7(Aj:];/P<0mfrI'^Wu-?htX&a1M(r/[n!CJqcp)t+)oD@1,%Tb[fJ!k$n\8na'Qr\WR](,Vj"cOF171AO6g#CWcks%Z`ZX2e,Wd4ecMk@,JA5-0ZBD7LfWBpK7Ad,lfPc[YFWGIT]]6WdT!6#!h]dH;EOGnR4!/bHCZN6UTC]bGKJGV)WOV'<&SXuB!Q36SI3XN'oSF2[#V*bV(<1_j/a<FkL%MJ*Bd^,m'43cpg0FeVY]ZJntT.07h?V]q>?[R3XYB;in/@hkC>S7AL<hQ+!KcqX*:,t,<h5ER[2kE5D^OiI0gJ/pQH8EN],eL)9Hb<1pi29%8>-;E,]NmH=<Jk+%587/#0:C9^SPA]`lK$m+UG+H)%"RNAA%p]n!4JJO=bTjYo@r/GG)Kq8'49ZH1HFXp5rK;TPhCNU6pVZCGR/X)*I.Y2_^7`nQl?&5^k'_t<3mbE.SkAJ?p,f_<m-0e<^O@R/@Bb7P#VHEn6P7=mo7XBO'5!05Q_]c?)sIjOH2QW+(<2^cN%sK%@oOi"qrRZu'':k)8Tj[&gS=3CFtXX]<F663e4?4084%7[,ro9Bj73C$]&2tb91m5]Xpg7p92mh#^E]+Qh>;j'F4gN$)h0lqF@f7A\guQcqNZe<ok.<4kJLW`rVZM]]DWh@Jc0f+U_a#TiuZJ#_=lRAs8Tp)m/~>endstream
 endobj
 xref
-0 6
+0 10
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000002152 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000639 00000 n 
+0000000707 00000 n 
+0000000968 00000 n 
+0000001027 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<<
+/ID 
+[<d86bf439ac1f2dc6fa6bc3cd8002d5ca><d86bf439ac1f2dc6fa6bc3cd8002d5ca>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 10
+>>
 startxref
-2220
+4612
 %%EOF

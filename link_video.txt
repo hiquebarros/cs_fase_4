@@ -1,9 +1,1 @@
-Substitua este texto pelo link do vídeo publicado no YouTube como "Não listado".
-
-Roteiro sugerido para gravação:
-1. Apresentar a Aurora Siger e o objetivo do SIGIC.
-2. Mostrar os módulos da colônia e a rede representada por grafo.
-3. Demonstrar BFS, DFS e Dijkstra no terminal.
-4. Simular o envio de energia para o Centro Médico.
-5. Explicar a modelagem matemática de perda energética.
-6. Comentar sustentabilidade, governança e redução de desperdícios.
+youtube.com/watch?v=WAL_0NRJ31U&feature=youtu.be
